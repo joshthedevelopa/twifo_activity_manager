@@ -5,8 +5,7 @@ export 'package:flutter/material.dart';
 
 // Internal
 export 'config/config.dart';
-export 'common/common.dart';
-export 'modules/modules.dart';
+export 'features/features.dart';
 export 'routes/routes.dart';
 export 'utilities/utilities.dart';
 export 'widgets/widgets.dart';
